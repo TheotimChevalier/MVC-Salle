@@ -1,0 +1,14 @@
+C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-Theotim\bin\Debug\net8.0\SalleTheotim.exe
+C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-Theotim\bin\Debug\net8.0\SalleTheotim.deps.json
+C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-Theotim\bin\Debug\net8.0\SalleTheotim.runtimeconfig.json
+C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-Theotim\bin\Debug\net8.0\SalleTheotim.dll
+C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-Theotim\bin\Debug\net8.0\SalleTheotim.pdb
+C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-Theotim\obj\Debug\net8.0\SalleTheotim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-Theotim\obj\Debug\net8.0\SalleTheotim.AssemblyInfoInputs.cache
+C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-Theotim\obj\Debug\net8.0\SalleTheotim.AssemblyInfo.cs
+C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-Theotim\obj\Debug\net8.0\SalleTheotim.csproj.CoreCompileInputs.cache
+C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-Theotim\obj\Debug\net8.0\SalleTheotim.dll
+C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-Theotim\obj\Debug\net8.0\refint\SalleTheotim.dll
+C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-Theotim\obj\Debug\net8.0\SalleTheotim.pdb
+C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-Theotim\obj\Debug\net8.0\SalleTheotim.genruntimeconfig.cache
+C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-Theotim\obj\Debug\net8.0\ref\SalleTheotim.dll
