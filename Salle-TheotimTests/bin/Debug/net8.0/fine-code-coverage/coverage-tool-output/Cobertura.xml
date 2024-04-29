@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE coverage SYSTEM "http://cobertura.sourceforge.net/xml/coverage-04.dtd">
+<coverage line-rate="0.48605577689243" branch-rate="0.409090909090909" lines-covered="122" lines-valid="251" branches-covered="27" branches-valid="66" complexity="90" version="0" timestamp="1712045824">
+  <sources>
+    <source>C:\</source>
+  </sources>
+  <packages>
+    <package name="SalleTheotim" line-rate="0.384180790960452" branch-rate="0.326086956521739" complexity="62">
+      <classes>
+        <class name="Program" filename="C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-Theotim\Program.cs" line-rate="0" branch-rate="0" complexity="12">
+          <methods>
+            <method name="&lt;Main&gt;$" signature="(...)" line-rate="0" branch-rate="0" complexity="12">
+              <lines>
+                <line number="6" hits="0" branch="false" />
+                <line number="7" hits="0" branch="false" />
+                <line number="8" hits="0" branch="false" />
+                <line number="10" hits="0" branch="false" />
+                <line number="11" hits="0" branch="false" />
+                <line number="12" hits="0" branch="false" />
+                <line number="13" hits="0" branch="false" />
+                <line number="14" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="false" />
+                <line number="19" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="22" hits="0" branch="false" />
+                <line number="23" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="24" hits="0" branch="false" />
+                <line number="25" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="27" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="28" hits="0" branch="false" />
+                <line number="29" hits="0" branch="false" />
+                <line number="30" hits="0" branch="false" />
+                <line number="31" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="32" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="34" hits="0" branch="false" />
+                <line number="35" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="36" hits="0" branch="false" />
+                <line number="37" hits="0" branch="false" />
+                <line number="38" hits="0" branch="false" />
+                <line number="40" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="41" hits="0" branch="false" />
+                <line number="42" hits="0" branch="false" />
+                <line number="45" hits="0" branch="false" />
+                <line number="46" hits="0" branch="false" />
+                <line number="47" hits="0" branch="false" />
+                <line number="49" hits="0" branch="false" />
+                <line number="50" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="6" hits="0" branch="false" />
+            <line number="7" hits="0" branch="false" />
+            <line number="8" hits="0" branch="false" />
+            <line number="10" hits="0" branch="false" />
+            <line number="11" hits="0" branch="false" />
+            <line number="12" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="14" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="false" />
+            <line number="19" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="22" hits="0" branch="false" />
+            <line number="23" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="24" hits="0" branch="false" />
+            <line number="25" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="27" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="28" hits="0" branch="false" />
+            <line number="29" hits="0" branch="false" />
+            <line number="30" hits="0" branch="false" />
+            <line number="31" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="32" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="35" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="36" hits="0" branch="false" />
+            <line number="37" hits="0" branch="false" />
+            <line number="38" hits="0" branch="false" />
+            <line number="40" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="41" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="45" hits="0" branch="false" />
+            <line number="46" hits="0" branch="false" />
+            <line number="47" hits="0" branch="false" />
+            <line number="49" hits="0" branch="false" />
+            <line number="50" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="SalleTheotim.Models.Batiment" filename="C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-Theotim\Models\Lieu.cs" line-rate="1" branch-rate="1" complexity="5">
+          <methods>
+            <method name="get_Adresse" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="4" branch="false" />
+              </lines>
+            </method>
+            <method name="get_CodePostal" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="20" hits="4" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Ville" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="21" hits="4" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Salles" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="22" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="25" hits="2" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="19" hits="4" branch="false" />
+            <line number="20" hits="4" branch="false" />
+            <line number="21" hits="4" branch="false" />
+            <line number="22" hits="1" branch="false" />
+            <line number="25" hits="2" branch="false" />
+          </lines>
+        </class>
+        <class name="SalleTheotim.Models.Lieu" filename="C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-Theotim\Models\Lieu.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="get_Code" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="5" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Nom" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="5" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="5" branch="false" />
+            <line number="13" hits="5" branch="false" />
+          </lines>
+        </class>
+        <class name="SalleTheotim.Models.Salle" filename="C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-Theotim\Models\Lieu.cs" line-rate="0.5" branch-rate="1" complexity="2">
+          <methods>
+            <method name="get_Nbplace" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="30" hits="7" branch="false" />
+              </lines>
+            </method>
+            <method name="get_Batiment" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="31" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="30" hits="7" branch="false" />
+            <line number="31" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="SalleTheotim.Services.BattimentService" filename="C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-Theotim\Service\BattimentService.cs" line-rate="0.612903225806452" branch-rate="0.576923076923077" complexity="31">
+          <methods>
+            <method name="get_InteractUserServices" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="43826133" branch="false" />
+              </lines>
+            </method>
+            <method name="get_SaisieUserServices" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="43826140" branch="false" />
+              </lines>
+            </method>
+            <method name="AfficherLesBattiments" signature="()" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="17" hits="1" branch="false" />
+                <line number="18" hits="5" branch="true" condition-coverage="100% (2/2)" />
+                <line number="19" hits="1" branch="false" />
+                <line number="20" hits="1" branch="false" />
+                <line number="21" hits="1" branch="false" />
+                <line number="22" hits="1" branch="false" />
+                <line number="23" hits="1" branch="false" />
+                <line number="24" hits="1" branch="false" />
+                <line number="25" hits="1" branch="false" />
+                <line number="26" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="AfficherDetailsBatiments" signature="()" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="32" hits="0" branch="false" />
+                <line number="33" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="34" hits="0" branch="false" />
+                <line number="35" hits="0" branch="false" />
+                <line number="36" hits="0" branch="false" />
+                <line number="37" hits="0" branch="false" />
+                <line number="38" hits="0" branch="false" />
+                <line number="39" hits="0" branch="false" />
+                <line number="40" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="CalculerNombrePlacesBatiment" signature="(...)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="43" hits="0" branch="false" />
+                <line number="44" hits="0" branch="false" />
+                <line number="45" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="46" hits="0" branch="false" />
+                <line number="47" hits="0" branch="false" />
+                <line number="48" hits="0" branch="false" />
+                <line number="49" hits="0" branch="false" />
+                <line number="50" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="AfficherLesSalles" signature="()" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="55" hits="0" branch="false" />
+                <line number="56" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="57" hits="0" branch="false" />
+                <line number="58" hits="0" branch="false" />
+                <line number="59" hits="0" branch="false" />
+                <line number="60" hits="0" branch="false" />
+                <line number="61" hits="0" branch="false" />
+                <line number="62" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="AjouterBatiments" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="66" hits="0" branch="false" />
+                <line number="67" hits="0" branch="false" />
+                <line number="68" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="AjouterSalle" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="71" hits="3" branch="false" />
+                <line number="72" hits="3" branch="false" />
+                <line number="73" hits="3" branch="false" />
+              </lines>
+            </method>
+            <method name="CreerBatimentSalle" signature="()" line-rate="0.8" branch-rate="0.6875" complexity="16">
+              <lines>
+                <line number="77" hits="2" branch="false" />
+                <line number="78" hits="2" branch="false" />
+                <line number="79" hits="2" branch="false" />
+                <line number="80" hits="2" branch="false" />
+                <line number="82" hits="2" branch="true" condition-coverage="75% (3/4)" />
+                <line number="83" hits="2" branch="false" />
+                <line number="84" hits="2" branch="true" condition-coverage="100% (2/2)" />
+                <line number="85" hits="1" branch="false" />
+                <line number="86" hits="1" branch="false" />
+                <line number="87" hits="1" branch="false" />
+                <line number="88" hits="1" branch="false" />
+                <line number="89" hits="1" branch="false" />
+                <line number="90" hits="1" branch="false" />
+                <line number="91" hits="1" branch="false" />
+                <line number="93" hits="1" branch="false" />
+                <line number="94" hits="1" branch="false" />
+                <line number="96" hits="1" branch="true" condition-coverage="50% (1/2)" />
+                <line number="97" hits="1" branch="false" />
+                <line number="98" hits="1" branch="false" />
+                <line number="99" hits="1" branch="false" />
+                <line number="100" hits="1" branch="false" />
+                <line number="102" hits="1" branch="false" />
+                <line number="103" hits="1" branch="false" />
+                <line number="105" hits="1" branch="false" />
+                <line number="108" hits="43826125" branch="false" />
+                <line number="109" hits="43826125" branch="false" />
+                <line number="110" hits="43826125" branch="true" condition-coverage="75% (3/4)" />
+                <line number="111" hits="43826125" branch="false" />
+                <line number="112" hits="43826125" branch="false" />
+                <line number="113" hits="43826124" branch="false" />
+                <line number="114" hits="87652248" branch="true" condition-coverage="50% (2/4)" />
+                <line number="116" hits="0" branch="false" />
+                <line number="117" hits="0" branch="false" />
+                <line number="118" hits="0" branch="false" />
+                <line number="119" hits="0" branch="false" />
+                <line number="121" hits="0" branch="false" />
+                <line number="123" hits="0" branch="false" />
+                <line number="124" hits="0" branch="false" />
+                <line number="126" hits="0" branch="false" />
+                <line number="127" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="CalculerNombreTotalPlaces" signature="()" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="135" hits="1" branch="false" />
+                <line number="136" hits="1" branch="false" />
+                <line number="137" hits="9" branch="true" condition-coverage="100% (2/2)" />
+                <line number="138" hits="3" branch="false" />
+                <line number="139" hits="3" branch="false" />
+                <line number="140" hits="3" branch="false" />
+                <line number="141" hits="1" branch="false" />
+                <line number="142" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="3" branch="false" />
+                <line number="13" hits="3" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="43826133" branch="false" />
+            <line number="10" hits="43826140" branch="false" />
+            <line number="12" hits="3" branch="false" />
+            <line number="13" hits="3" branch="false" />
+            <line number="17" hits="1" branch="false" />
+            <line number="18" hits="5" branch="true" condition-coverage="100% (2/2)" />
+            <line number="19" hits="1" branch="false" />
+            <line number="20" hits="1" branch="false" />
+            <line number="21" hits="1" branch="false" />
+            <line number="22" hits="1" branch="false" />
+            <line number="23" hits="1" branch="false" />
+            <line number="24" hits="1" branch="false" />
+            <line number="25" hits="1" branch="false" />
+            <line number="26" hits="1" branch="false" />
+            <line number="32" hits="0" branch="false" />
+            <line number="33" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="34" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="36" hits="0" branch="false" />
+            <line number="37" hits="0" branch="false" />
+            <line number="38" hits="0" branch="false" />
+            <line number="39" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="43" hits="0" branch="false" />
+            <line number="44" hits="0" branch="false" />
+            <line number="45" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="46" hits="0" branch="false" />
+            <line number="47" hits="0" branch="false" />
+            <line number="48" hits="0" branch="false" />
+            <line number="49" hits="0" branch="false" />
+            <line number="50" hits="0" branch="false" />
+            <line number="55" hits="0" branch="false" />
+            <line number="56" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="57" hits="0" branch="false" />
+            <line number="58" hits="0" branch="false" />
+            <line number="59" hits="0" branch="false" />
+            <line number="60" hits="0" branch="false" />
+            <line number="61" hits="0" branch="false" />
+            <line number="62" hits="0" branch="false" />
+            <line number="66" hits="0" branch="false" />
+            <line number="67" hits="0" branch="false" />
+            <line number="68" hits="0" branch="false" />
+            <line number="71" hits="3" branch="false" />
+            <line number="72" hits="3" branch="false" />
+            <line number="73" hits="3" branch="false" />
+            <line number="77" hits="2" branch="false" />
+            <line number="78" hits="2" branch="false" />
+            <line number="79" hits="2" branch="false" />
+            <line number="80" hits="2" branch="false" />
+            <line number="82" hits="2" branch="true" condition-coverage="75% (3/4)" />
+            <line number="83" hits="2" branch="false" />
+            <line number="84" hits="2" branch="true" condition-coverage="100% (2/2)" />
+            <line number="85" hits="1" branch="false" />
+            <line number="86" hits="1" branch="false" />
+            <line number="87" hits="1" branch="false" />
+            <line number="88" hits="1" branch="false" />
+            <line number="89" hits="1" branch="false" />
+            <line number="90" hits="1" branch="false" />
+            <line number="91" hits="1" branch="false" />
+            <line number="93" hits="1" branch="false" />
+            <line number="94" hits="1" branch="false" />
+            <line number="96" hits="1" branch="true" condition-coverage="50% (1/2)" />
+            <line number="97" hits="1" branch="false" />
+            <line number="98" hits="1" branch="false" />
+            <line number="99" hits="1" branch="false" />
+            <line number="100" hits="1" branch="false" />
+            <line number="102" hits="1" branch="false" />
+            <line number="103" hits="1" branch="false" />
+            <line number="105" hits="1" branch="false" />
+            <line number="108" hits="43826125" branch="false" />
+            <line number="109" hits="43826125" branch="false" />
+            <line number="110" hits="43826125" branch="true" condition-coverage="75% (3/4)" />
+            <line number="111" hits="43826125" branch="false" />
+            <line number="112" hits="43826125" branch="false" />
+            <line number="113" hits="43826124" branch="false" />
+            <line number="114" hits="87652248" branch="true" condition-coverage="50% (2/4)" />
+            <line number="116" hits="0" branch="false" />
+            <line number="117" hits="0" branch="false" />
+            <line number="118" hits="0" branch="false" />
+            <line number="119" hits="0" branch="false" />
+            <line number="121" hits="0" branch="false" />
+            <line number="123" hits="0" branch="false" />
+            <line number="124" hits="0" branch="false" />
+            <line number="126" hits="0" branch="false" />
+            <line number="127" hits="1" branch="false" />
+            <line number="135" hits="1" branch="false" />
+            <line number="136" hits="1" branch="false" />
+            <line number="137" hits="9" branch="true" condition-coverage="100% (2/2)" />
+            <line number="138" hits="3" branch="false" />
+            <line number="139" hits="3" branch="false" />
+            <line number="140" hits="3" branch="false" />
+            <line number="141" hits="1" branch="false" />
+            <line number="142" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="SalleTheotim.Services.InteractionsUtillisateurService" filename="C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-Theotim\Service\InteractionsUtillisateurService.cs" line-rate="0.5" branch-rate="0" complexity="3">
+          <methods>
+            <method name="AfficherMessages" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="12" hits="43826130" branch="false" />
+                <line number="13" hits="43826130" branch="false" />
+                <line number="14" hits="43826129" branch="false" />
+              </lines>
+            </method>
+            <method name="AttendrePourQuitter" signature="()" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="19" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="12" hits="43826130" branch="false" />
+            <line number="13" hits="43826130" branch="false" />
+            <line number="14" hits="43826129" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="19" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="SalleTheotim.Services.SaisiesUtilisateursService" filename="C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-Theotim\Service\SaisiesUtilisateursService.cs" line-rate="0" branch-rate="0" complexity="7">
+          <methods>
+            <method name="get_InteractUserServices" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="DemandeInt" signature="(...)" line-rate="0" branch-rate="0" complexity="2">
+              <lines>
+                <line number="13" hits="0" branch="false" />
+                <line number="15" hits="0" branch="false" />
+                <line number="16" hits="0" branch="false" />
+                <line number="17" hits="0" branch="false" />
+                <line number="18" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="19" hits="0" branch="false" />
+                <line number="20" hits="0" branch="false" />
+                <line number="21" hits="0" branch="false" />
+                <line number="23" hits="0" branch="false" />
+                <line number="24" hits="0" branch="false" />
+                <line number="26" hits="0" branch="false" />
+                <line number="27" hits="0" branch="false" />
+                <line number="28" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="DemandeString" signature="(...)" line-rate="0" branch-rate="0" complexity="4">
+              <lines>
+                <line number="31" hits="0" branch="false" />
+                <line number="33" hits="0" branch="false" />
+                <line number="34" hits="0" branch="false" />
+                <line number="35" hits="0" branch="false" />
+                <line number="36" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="37" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="38" hits="0" branch="false" />
+                <line number="39" hits="0" branch="false" />
+                <line number="40" hits="0" branch="false" />
+                <line number="42" hits="0" branch="false" />
+                <line number="43" hits="0" branch="false" />
+                <line number="44" hits="0" branch="false" />
+                <line number="46" hits="0" branch="false" />
+                <line number="47" hits="0" branch="false" />
+                <line number="48" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="0" branch="false" />
+            <line number="13" hits="0" branch="false" />
+            <line number="15" hits="0" branch="false" />
+            <line number="16" hits="0" branch="false" />
+            <line number="17" hits="0" branch="false" />
+            <line number="18" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="19" hits="0" branch="false" />
+            <line number="20" hits="0" branch="false" />
+            <line number="21" hits="0" branch="false" />
+            <line number="23" hits="0" branch="false" />
+            <line number="24" hits="0" branch="false" />
+            <line number="26" hits="0" branch="false" />
+            <line number="27" hits="0" branch="false" />
+            <line number="28" hits="0" branch="false" />
+            <line number="31" hits="0" branch="false" />
+            <line number="33" hits="0" branch="false" />
+            <line number="34" hits="0" branch="false" />
+            <line number="35" hits="0" branch="false" />
+            <line number="36" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="37" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="38" hits="0" branch="false" />
+            <line number="39" hits="0" branch="false" />
+            <line number="40" hits="0" branch="false" />
+            <line number="42" hits="0" branch="false" />
+            <line number="43" hits="0" branch="false" />
+            <line number="44" hits="0" branch="false" />
+            <line number="46" hits="0" branch="false" />
+            <line number="47" hits="0" branch="false" />
+            <line number="48" hits="0" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+    <package name="SalleTheotimTests" line-rate="0.72972972972973" branch-rate="0.6" complexity="28">
+      <classes>
+        <class name="AutoGeneratedProgram" filename="C:\Users\Me\.nuget\packages\microsoft.net.test.sdk\17.8.0\build\netcoreapp3.1\Microsoft.NET.Test.Sdk.Program.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="Main" signature="(...)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="4" hits="0" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="4" hits="0" branch="false" />
+          </lines>
+        </class>
+        <class name="SalleTheotimTests.BatimentServiceTest" filename="C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-TheotimTests\BattimentServiceTest.cs" line-rate="0.82051282051282" branch-rate="1" complexity="4">
+          <methods>
+            <method name="CreerBatimentTest" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="1" branch="false" />
+                <line number="18" hits="1" branch="false" />
+                <line number="19" hits="1" branch="false" />
+                <line number="20" hits="1" branch="false" />
+                <line number="21" hits="1" branch="false" />
+                <line number="22" hits="1" branch="false" />
+                <line number="23" hits="1" branch="false" />
+                <line number="24" hits="1" branch="false" />
+                <line number="25" hits="1" branch="false" />
+                <line number="26" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="CreerSalleTest" signature="()" line-rate="0.666666666666667" branch-rate="1" complexity="1">
+              <lines>
+                <line number="31" hits="1" branch="false" />
+                <line number="32" hits="1" branch="false" />
+                <line number="33" hits="1" branch="false" />
+                <line number="34" hits="1" branch="false" />
+                <line number="35" hits="1" branch="false" />
+                <line number="36" hits="1" branch="false" />
+                <line number="37" hits="1" branch="false" />
+                <line number="38" hits="1" branch="false" />
+                <line number="39" hits="1" branch="false" />
+                <line number="40" hits="1" branch="false" />
+                <line number="42" hits="1" branch="false" />
+                <line number="43" hits="1" branch="false" />
+                <line number="46" hits="1" branch="false" />
+                <line number="48" hits="1" branch="false" />
+                <line number="50" hits="0" branch="false" />
+                <line number="52" hits="0" branch="false" />
+                <line number="53" hits="0" branch="false" />
+                <line number="54" hits="0" branch="false" />
+                <line number="55" hits="0" branch="false" />
+                <line number="56" hits="0" branch="false" />
+                <line number="57" hits="0" branch="false" />
+              </lines>
+            </method>
+            <method name="CalculerNombreTotalPlacesTest" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="62" hits="1" branch="false" />
+                <line number="63" hits="1" branch="false" />
+                <line number="64" hits="1" branch="false" />
+                <line number="65" hits="1" branch="false" />
+                <line number="66" hits="1" branch="false" />
+                <line number="67" hits="1" branch="false" />
+                <line number="68" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="11" hits="1" branch="false" />
+            <line number="16" hits="1" branch="false" />
+            <line number="18" hits="1" branch="false" />
+            <line number="19" hits="1" branch="false" />
+            <line number="20" hits="1" branch="false" />
+            <line number="21" hits="1" branch="false" />
+            <line number="22" hits="1" branch="false" />
+            <line number="23" hits="1" branch="false" />
+            <line number="24" hits="1" branch="false" />
+            <line number="25" hits="1" branch="false" />
+            <line number="26" hits="1" branch="false" />
+            <line number="31" hits="1" branch="false" />
+            <line number="32" hits="1" branch="false" />
+            <line number="33" hits="1" branch="false" />
+            <line number="34" hits="1" branch="false" />
+            <line number="35" hits="1" branch="false" />
+            <line number="36" hits="1" branch="false" />
+            <line number="37" hits="1" branch="false" />
+            <line number="38" hits="1" branch="false" />
+            <line number="39" hits="1" branch="false" />
+            <line number="40" hits="1" branch="false" />
+            <line number="42" hits="1" branch="false" />
+            <line number="43" hits="1" branch="false" />
+            <line number="46" hits="1" branch="false" />
+            <line number="48" hits="1" branch="false" />
+            <line number="50" hits="0" branch="false" />
+            <line number="52" hits="0" branch="false" />
+            <line number="53" hits="0" branch="false" />
+            <line number="54" hits="0" branch="false" />
+            <line number="55" hits="0" branch="false" />
+            <line number="56" hits="0" branch="false" />
+            <line number="57" hits="0" branch="false" />
+            <line number="62" hits="1" branch="false" />
+            <line number="63" hits="1" branch="false" />
+            <line number="64" hits="1" branch="false" />
+            <line number="65" hits="1" branch="false" />
+            <line number="66" hits="1" branch="false" />
+            <line number="67" hits="1" branch="false" />
+            <line number="68" hits="1" branch="false" />
+          </lines>
+        </class>
+        <class name="SalleTheotimTests.SaisieMock" filename="C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-TheotimTests\BattimentServiceTest.cs" line-rate="0.909090909090909" branch-rate="0.9" complexity="11">
+          <methods>
+            <method name="DemandeInt" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="74" hits="1" branch="false" />
+                <line number="75" hits="1" branch="false" />
+                <line number="76" hits="1" branch="false" />
+              </lines>
+            </method>
+            <method name="DemandeString" signature="(...)" line-rate="0.875" branch-rate="0.9" complexity="10">
+              <lines>
+                <line number="78" hits="5" branch="false" />
+                <line number="79" hits="7" branch="true" condition-coverage="100% (2/2)" />
+                <line number="80" hits="6" branch="true" condition-coverage="100% (2/2)" />
+                <line number="81" hits="5" branch="true" condition-coverage="100% (2/2)" />
+                <line number="82" hits="4" branch="true" condition-coverage="100% (2/2)" />
+                <line number="83" hits="3" branch="true" condition-coverage="50% (1/2)" />
+                <line number="84" hits="0" branch="false" />
+                <line number="85" hits="5" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="74" hits="1" branch="false" />
+            <line number="75" hits="1" branch="false" />
+            <line number="76" hits="1" branch="false" />
+            <line number="78" hits="5" branch="false" />
+            <line number="79" hits="7" branch="true" condition-coverage="100% (2/2)" />
+            <line number="80" hits="6" branch="true" condition-coverage="100% (2/2)" />
+            <line number="81" hits="5" branch="true" condition-coverage="100% (2/2)" />
+            <line number="82" hits="4" branch="true" condition-coverage="100% (2/2)" />
+            <line number="83" hits="3" branch="true" condition-coverage="50% (1/2)" />
+            <line number="84" hits="0" branch="false" />
+            <line number="85" hits="5" branch="false" />
+          </lines>
+        </class>
+        <class name="SalleTheotimTests.SaisieMock2" filename="C:\Theotim\EPSI\Csharp\Salle-Theotim\Salle-TheotimTests\BattimentServiceTest.cs" line-rate="0.521739130434783" branch-rate="0.3" complexity="12">
+          <methods>
+            <method name="DemandeInt" signature="(...)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="93" hits="43826127" branch="false" />
+                <line number="94" hits="43826127" branch="false" />
+                <line number="95" hits="43826127" branch="false" />
+              </lines>
+            </method>
+            <method name="DemandeString" signature="(...)" line-rate="0.421052631578947" branch-rate="0.3" complexity="10">
+              <lines>
+                <line number="98" hits="2" branch="false" />
+                <line number="99" hits="2" branch="true" condition-coverage="100% (2/2)" />
+                <line number="100" hits="1" branch="false" />
+                <line number="101" hits="1" branch="false" />
+                <line number="103" hits="1" branch="true" condition-coverage="50% (1/2)" />
+                <line number="104" hits="1" branch="false" />
+                <line number="105" hits="1" branch="false" />
+                <line number="107" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="108" hits="0" branch="false" />
+                <line number="109" hits="0" branch="false" />
+                <line number="111" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="112" hits="0" branch="false" />
+                <line number="113" hits="0" branch="false" />
+                <line number="115" hits="0" branch="true" condition-coverage="0% (0/2)" />
+                <line number="116" hits="0" branch="false" />
+                <line number="117" hits="0" branch="false" />
+                <line number="120" hits="0" branch="false" />
+                <line number="121" hits="0" branch="false" />
+                <line number="123" hits="2" branch="false" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="90" hits="1" branch="false" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="90" hits="1" branch="false" />
+            <line number="93" hits="43826127" branch="false" />
+            <line number="94" hits="43826127" branch="false" />
+            <line number="95" hits="43826127" branch="false" />
+            <line number="98" hits="2" branch="false" />
+            <line number="99" hits="2" branch="true" condition-coverage="100% (2/2)" />
+            <line number="100" hits="1" branch="false" />
+            <line number="101" hits="1" branch="false" />
+            <line number="103" hits="1" branch="true" condition-coverage="50% (1/2)" />
+            <line number="104" hits="1" branch="false" />
+            <line number="105" hits="1" branch="false" />
+            <line number="107" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="108" hits="0" branch="false" />
+            <line number="109" hits="0" branch="false" />
+            <line number="111" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="112" hits="0" branch="false" />
+            <line number="113" hits="0" branch="false" />
+            <line number="115" hits="0" branch="true" condition-coverage="0% (0/2)" />
+            <line number="116" hits="0" branch="false" />
+            <line number="117" hits="0" branch="false" />
+            <line number="120" hits="0" branch="false" />
+            <line number="121" hits="0" branch="false" />
+            <line number="123" hits="2" branch="false" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
